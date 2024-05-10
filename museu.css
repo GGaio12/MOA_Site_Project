@@ -1,0 +1,13 @@
+body {
+    background-color: white;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#id footer {
+    background-color: #54582f;
+    margin-right: auto;
+    margin-left:auto;
+}
